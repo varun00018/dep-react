@@ -71,7 +71,7 @@ function App() {
       <h3>Question 11</h3>
       <Q11/>
       <h3>Question 12</h3>
-      <Q12/>
+      <Q12 firstName="Varun" lastName="S"/>
       <br/>
       <h2 style={{backgroundColor:"yellow"}}>Exercise 14</h2>
       <h3>Question 1</h3>
